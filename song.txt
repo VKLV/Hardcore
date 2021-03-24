@@ -40,3 +40,5 @@ All those times
 I'm not so strong… 
 
 First commit from feature branch
+
+Second commit from feature branch
