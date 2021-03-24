@@ -1,4 +1,4 @@
-Oh, I cannot explain
+﻿Oh, I cannot explain
 Every time it's the same
 Oh, I feel that it's real
 Take my heart
@@ -38,3 +38,5 @@ Easy come but I think easy go
 I need you so
 All those times
 I'm not so strong… 
+
+First commit from feature branch
